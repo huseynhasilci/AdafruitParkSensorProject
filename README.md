@@ -1,1 +1,2 @@
-# AdafruitSmallLigthProject
+# AdafruitParkSensorProject
+# We used editor M.
